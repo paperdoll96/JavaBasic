@@ -8,7 +8,7 @@
 
 - [클래스와 데이터](https://github.com/paperdoll96/JavaBasic/tree/main/src/class1)
 - [기본형과 참조형](#기본형과-참조형)
-- [객체 지향 프로그래밍](#객체-지향-프로그래밍)
+- [객체 지향 프로그래밍](https://github.com/paperdoll96/JavaBasic/tree/main/src/oop1)
 - [생성자](#생성자)
 - [패키지](#패키지)
 - [접근제어자](#접근제어자)
