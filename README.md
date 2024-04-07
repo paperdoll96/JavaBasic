@@ -11,6 +11,6 @@
 - [생성자](https://github.com/paperdoll96/JavaBasic/tree/main/src/construct)
 - [접근제어자](https://github.com/paperdoll96/JavaBasic/tree/main/src/access)
 - [자바 메모리 구조와 static](#자바-메모리-구조와-static)
-- [final](#final)
+- [final](https://github.com/paperdoll96/JavaBasic/tree/main/src/final1)
 - [상속](#상속)
 - [다형성과 설계](#다형성과-설계)
